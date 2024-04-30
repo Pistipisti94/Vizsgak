@@ -1,0 +1,1 @@
+Vizsgaszerű feladatok gyűjteménye
