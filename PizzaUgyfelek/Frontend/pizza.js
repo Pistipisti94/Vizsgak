@@ -21,13 +21,14 @@ document.addEventListener("DOMContentLoaded", function () {
                                     <th scope="col">ID</th>
                                     <th scope="col">Futár</th>
                                     <th scope="col">Telefonszám</th>                                    
+                                    <th scope="col">Pick</th>                                    
                                     </tr>
                                 </thead>
                             <tbody>
                             `;
         let row = 1;
         data.forEach(element => {
-            tabla += `<tr><th scope='row'>` + element.fazon + `</th>  <td>` + element.fnev + `</td> <td>` + element.ftel + `</td></tr>`;
+            tabla += `<tr><th scope='row'>` + element.fazon + `</th>  <td>` + element.fnev + `</td> <td>` + element.ftel + `</td> <td> <a class="btn btn-primary" href="insert.html">Kiválasztás</a></td></tr>`;
             row++;
         });
         tabla += `</tbody>
@@ -53,19 +54,21 @@ document.addEventListener("DOMContentLoaded", function () {
                                     <th scope="col">ID</th>
                                     <th scope="col">Pizza</th>
                                     <th scope="col">Ár</th>                                    
+                                    <th scope="col">Pick</th>                                    
                                     </tr>
                                 </thead>
                             <tbody>
                             `;
         let row = 1;
         data.forEach(element => {
-            tabla += `<tr><th scope='row'>` + element.pazon + `</th>  <td>` + element.pnev + `</td> <td>` + element.par + ` Ft</td></tr>`;
+            tabla += `<tr><th scope='row'>` + element.pazon + `</th>  <td>` + element.pnev + `</td> <td>` + element.par + ` Ft</td><td> <a class="btn btn-primary" href="http://localhost/pizzaUgyfelek/Backend/index.php?pizza/`+element.pazon+`">Kiválasztás</a></td></tr>`;
             row++;
         });
         tabla += `</tbody>
                             </table>`;
         pizzak.innerHTML = tabla;
     })
+        //###############################################
     window.addEventListener("DOMContentLoaded", async function () {
         let baseUrl = "http://localhost/pizzaUgyfelek/Backend/index.php?vevo";        
         let options = {
@@ -84,13 +87,14 @@ document.addEventListener("DOMContentLoaded", function () {
                                     <th scope="col">ID</th>
                                     <th scope="col">Pizza</th>
                                     <th scope="col">ár</th>                                    
+                                    <th scope="col">Pick</th>                                    
                                     </tr>
                                 </thead>
                             <tbody>
                             `;
         let row = 1;
         data.forEach(element => {
-            tabla += `<tr><th scope='row'>` + element.vazon + `</th>  <td>` + element.vnev + `</td> <td>` + element.vcim + `</td></tr>`;
+            tabla += `<tr><th scope='row'>` + element.vazon + `</th>  <td>` + element.vnev + `</td> <td>` + element.vcim + `</td><td> <a class="btn btn-primary" href="http://localhost/pizzaUgyfelek/Backend/index.php?vevo/`+element.vazon+`">Kiválasztás</a></td></tr>`;
             row++;
         });
         tabla += `</tbody>
