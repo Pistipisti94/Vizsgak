@@ -1,0 +1,13 @@
+C:\Users\demeter.istvan.tamas\Desktop\Levesek-feladat\GUI\Levesek\bin\Debug\Levesek.exe.config
+C:\Users\demeter.istvan.tamas\Desktop\Levesek-feladat\GUI\Levesek\bin\Debug\Levesek.exe
+C:\Users\demeter.istvan.tamas\Desktop\Levesek-feladat\GUI\Levesek\bin\Debug\Levesek.pdb
+C:\Users\demeter.istvan.tamas\Desktop\Levesek-feladat\GUI\Levesek\bin\Debug\Newtonsoft.Json.dll
+C:\Users\demeter.istvan.tamas\Desktop\Levesek-feladat\GUI\Levesek\bin\Debug\Newtonsoft.Json.xml
+C:\Users\demeter.istvan.tamas\Desktop\Levesek-feladat\GUI\Levesek\obj\Debug\Levesek.csproj.AssemblyReference.cache
+C:\Users\demeter.istvan.tamas\Desktop\Levesek-feladat\GUI\Levesek\obj\Debug\Levesek.Form1.resources
+C:\Users\demeter.istvan.tamas\Desktop\Levesek-feladat\GUI\Levesek\obj\Debug\Levesek.Properties.Resources.resources
+C:\Users\demeter.istvan.tamas\Desktop\Levesek-feladat\GUI\Levesek\obj\Debug\Levesek.csproj.GenerateResource.cache
+C:\Users\demeter.istvan.tamas\Desktop\Levesek-feladat\GUI\Levesek\obj\Debug\Levesek.csproj.CoreCompileInputs.cache
+C:\Users\demeter.istvan.tamas\Desktop\Levesek-feladat\GUI\Levesek\obj\Debug\Levesek.csproj.CopyComplete
+C:\Users\demeter.istvan.tamas\Desktop\Levesek-feladat\GUI\Levesek\obj\Debug\Levesek.exe
+C:\Users\demeter.istvan.tamas\Desktop\Levesek-feladat\GUI\Levesek\obj\Debug\Levesek.pdb

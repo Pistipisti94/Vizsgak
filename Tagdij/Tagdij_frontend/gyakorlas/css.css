@@ -1,0 +1,24 @@
+header{
+    background-color: cadetblue;
+    
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color:blanchedalmond;
+}
+label{
+    font-weight: bolder;
+    font-size: larger;
+}
+footer {
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+    font-size: small;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

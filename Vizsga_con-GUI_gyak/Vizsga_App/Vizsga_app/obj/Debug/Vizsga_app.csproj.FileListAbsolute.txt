@@ -1,0 +1,10 @@
+C:\Users\demeter.istvan.tamas\Desktop\Vizsga_App\Vizsga_app\bin\Debug\Vizsga_app.exe.config
+C:\Users\demeter.istvan.tamas\Desktop\Vizsga_App\Vizsga_app\bin\Debug\Vizsga_app.exe
+C:\Users\demeter.istvan.tamas\Desktop\Vizsga_App\Vizsga_app\bin\Debug\Vizsga_app.pdb
+C:\Users\demeter.istvan.tamas\Desktop\Vizsga_App\Vizsga_app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\demeter.istvan.tamas\Desktop\Vizsga_App\Vizsga_app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\demeter.istvan.tamas\Desktop\Vizsga_App\Vizsga_app\obj\Debug\Vizsga_app.csproj.AssemblyReference.cache
+C:\Users\demeter.istvan.tamas\Desktop\Vizsga_App\Vizsga_app\obj\Debug\Vizsga_app.csproj.CoreCompileInputs.cache
+C:\Users\demeter.istvan.tamas\Desktop\Vizsga_App\Vizsga_app\obj\Debug\Vizsga_app.csproj.CopyComplete
+C:\Users\demeter.istvan.tamas\Desktop\Vizsga_App\Vizsga_app\obj\Debug\Vizsga_app.exe
+C:\Users\demeter.istvan.tamas\Desktop\Vizsga_App\Vizsga_app\obj\Debug\Vizsga_app.pdb
